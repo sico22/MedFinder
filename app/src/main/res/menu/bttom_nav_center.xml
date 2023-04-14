@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_calendar"
+        android:enabled="true"
+        android:icon="@drawable/calendar"
+        android:title="@string/text_calendar"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_profil_centru"
+        android:enabled="true"
+        android:icon="@drawable/users"
+        android:title="@string/text_profil"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_ntf_centru"
+        android:enabled="true"
+        android:icon="@drawable/notific"
+        android:title="@string/text_notification"
+        app:showAsAction="ifRoom" />
+</menu>

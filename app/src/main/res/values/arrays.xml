@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="serviciuCenter" />
+    <string-array name="services">
+        <item>Analize de sange</item>
+        <item>Teste de hematologie</item>
+        <item>Teste de biochimie</item>
+        <item>Teste de citogenetica</item>
+        <item>Teste de microbiologie</item>
+        <item>Consult genetic</item>
+        <item>Toxicologie</item>
+        <item>Cardiologie</item>
+        <item>Neourologie</item>
+        <item>Radiologie</item>
+        <item>Ecografie</item>
+        <item>Stomatologie</item>
+        <item>Endocrinologie</item>
+        <item>Urologie</item>
+        <item>Imagistica medicala</item>
+        <item>Gastroenterologie</item>
+        <item>Medicina interna</item>
+    </string-array>
+
+</resources>

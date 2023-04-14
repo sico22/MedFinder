@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "940716555352",
+    "firebase_url": "https://medfinder-17e93.firebaseio.com",
+    "project_id": "medfinder-17e93",
+    "storage_bucket": "medfinder-17e93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940716555352:android:461fa7d4e4198b8c",
+        "android_client_info": {
+          "package_name": "medfinder.ro.bruteforce.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940716555352-9k8cu2tg50abri23t1qv5t7k27bt7koi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-dxc05dLTquwwbrABos0e0_BsE0npzC8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http//shemas.android.com/tools"
+    tools:context="com.android.rgd.my_option_menu.ListActivity">
+            <item
+                android:id="@+id/sortByName"
+                android:title="Nume"
+                app:showAsAction="ifRoom|collapseActionView" />
+            <item
+                android:id="@+id/sortByAnalize"
+                android:title="Analize"
+                app:showAsAction="ifRoom|collapseActionView" />
+            <item
+                android:id="@+id/sortByFonduri"
+                android:title="Fonduri"
+                app:showAsAction="ifRoom|collapseActionView" />
+            <item
+                android:id="@+id/sortByLocatie"
+                android:title="Locatie"
+                app:showAsAction="never" />
+
+</menu>

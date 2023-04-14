@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http//shemas.android.com/tools"
+    tools:context="com.android.rgd.my_option_menu.ListActivity">
+    <item
+        android:id="@+id/action_search"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="Search"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="collapseActionView|always" />
+    <item android:title="Sorteaza dupa">
+        <menu android:id="@+id/action_options">
+            <item
+                android:id="@+id/sortByName"
+                android:title="Nume"
+                app:showAsAction="always|collapseActionView" />
+            <item
+                android:id="@+id/sortByAnalize"
+                android:title="Analize"
+                app:showAsAction="always|collapseActionView" />
+            <item
+                android:id="@+id/sortByFonduri"
+                android:title="Fonduri"
+                app:showAsAction="always|collapseActionView" />
+            <item
+                android:id="@+id/sortByRating"
+                android:title="Rating"
+                app:showAsAction="always|collapseActionView" />
+        </menu>
+    </item>
+
+
+
+</menu>
